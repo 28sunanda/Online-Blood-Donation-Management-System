@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xslt"?>
+<inventory>
+   <product>
+       <bloodgroup>A+</bloodgroup>
+	   <currentlevel>75</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>A-</bloodgroup>
+	   <currentlevel>23</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>B+</bloodgroup>
+	   <currentlevel>23</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>B-</bloodgroup>
+	   <currentlevel>8</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>O+</bloodgroup>
+	   <currentlevel>86</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>O-</bloodgroup>
+	   <currentlevel>44</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>AB+</bloodgroup>
+	   <currentlevel>4</currentlevel>
+   </product>
+   <product>
+       <bloodgroup>AB-</bloodgroup>
+	   <currentlevel>4</currentlevel>
+   </product>
+</inventory>
